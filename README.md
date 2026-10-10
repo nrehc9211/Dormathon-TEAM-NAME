@@ -1,4 +1,5 @@
 # SmartInvoice AI — Automated Invoice Processing System
+application link: http://localhost:8765/
 
 An end-to-end invoice automation system that extracts data from PDF invoices, validates it, submits it to a simulated MyInvois Portal (via Google Apps Script), and generates branded Excel invoices with embedded QR codes for verification.
 
