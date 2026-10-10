@@ -467,6 +467,8 @@ The template sheet is named **"Invoice Template"** and has this layout:
 
 ## Google Apps Script (MyInvois Portal Simulator)
 
+This is our link to our MyInvois Portal(Demo Only) https://script.google.com/macros/s/AKfycbzzTAgAtgrMhqCVU3r2O1jToX8hJ0GhowKMajO44cMKQJCIex5r0pYhck0yNr52XyWX/exec
+
 The system submits invoices to a **Google Apps Script Web App** that simulates the MyInvois Portal.
 
 ### What the Apps Script Does
