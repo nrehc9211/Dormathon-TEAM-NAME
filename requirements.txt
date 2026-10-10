@@ -1,0 +1,8 @@
+# SmartInvoice AI — Python Dependencies
+# Install: pip install -r requirements.txt
+
+pyodbc>=5.1.0          # SQL Server connection (insert, query, update invoice data)
+playwright>=1.40.0     # Headless Chromium browser automation for MyInvois Portal form submission
+openpyxl>=3.1.0        # Read/write Excel template — fill cells, embed images, set alignment
+Pillow>=10.0.0         # Image processing — resize QR code images before embedding in Excel
+pypdf>=4.0.0           # Extract selectable text from PDF invoices
